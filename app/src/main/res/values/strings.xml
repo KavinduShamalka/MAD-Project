@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">CodeBlack</string>
+    <string name="next">Next</string>
+    <string name="home">Home</string>
+    <string name="rooms_and_details">Rooms and details</string>
+    <string name="accommodates">Accommodates</string>
+    <string name="adults">Adults</string>
+    <string name="childern">Childern</string>
+    <string name="bedroom">Bedroom</string>
+    <string name="bathroom">Bathroom</string>
+    <string name="state_province">State/Province</string>
+    <string name="zip_postal_code_optical">ZIP/Postal Code(optical)</string>
+    <string name="city">City</string>
+    <string name="street_address">Street Address</string>
+    <string name="todo">TODO</string>
+    <string name="property_type">Property type :</string>
+    <string name="given_the_total_bed_space">given the total bed space</string>
+    <string name="the_maximum_number_of_people_who_can_sleep_comfortably">The maximum number of people who can sleep comfortably</string>
 </resources>

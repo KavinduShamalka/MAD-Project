@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CodeBlack">
+        <activity android:name=".create_property_advertisement"></activity>
+        <activity android:name=".CreatePropertyAdvertisement" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
