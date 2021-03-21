@@ -1,19 +1,75 @@
 <resources>
-    <string name="app_name">CodeBlack</string>
-    <string name="next">Next</string>
-    <string name="home">Home</string>
+    <string name="app_name">Vehicle Advertisement Payment</string>
+    <string name="property_type">Property type :</string>
     <string name="rooms_and_details">Rooms and details</string>
     <string name="accommodates">Accommodates</string>
+    <string name="the_maximum_number_of_people_who_can_sleep_comfortably">The maximum number of people who can sleep comfortably</string>
+    <string name="given_the_total_bed_space">given the total bed space</string>
     <string name="adults">Adults</string>
     <string name="childern">Childern</string>
     <string name="bedroom">Bedroom</string>
+    <string name="kitchen">Kitchen</string>
     <string name="bathroom">Bathroom</string>
-    <string name="state_province">State/Province</string>
-    <string name="zip_postal_code_optical">ZIP/Postal Code(optical)</string>
-    <string name="city">City</string>
+    <string name="_1">1</string>
     <string name="street_address">Street Address</string>
+    <string name="address">Address</string>
+    <string name="state_province">State/Province</string>
+    <string name="state">State</string>
+    <string name="zip_postal_code_optical">ZIP/Postal Code(optical)</string>
+    <string name="postal_code">Postal code</string>
+    <string name="city">City</string>
     <string name="todo">TODO</string>
-    <string name="property_type">Property type :</string>
-    <string name="given_the_total_bed_space">given the total bed space</string>
-    <string name="the_maximum_number_of_people_who_can_sleep_comfortably">The maximum number of people who can sleep comfortably</string>
+    <string name="next">Next</string>
+    <string name="home">Home</string>
+
+
+    <string name="select_your_place_available_date">Select Your Place Available Date</string>
+    <string name="name_your_property">Name your property</string>
+    <string name="your_place_name">Your Place Name</string>
+    <string name="describe_your_place">Describe your place</string>
+    <string name="type_here">Type here</string>
+    <string name="local_recommendation_optical">Local recommendation (optical)</string>
+    <string name="house_rules_optical">House rules (optical)</string>
+    <string name="standard_access_kitchen_outdoors_safety_and">Standard, Access, Kitchen, Outdoors, Safety, and</string>
+    <string name="cleanliness">Cleanliness</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="back">Back</string>
+    <string name="next1">Next</string>
+
+
+    <string name="uplord_your_property_photos_please_upload_at_least_5_photos">Uplord Your Property Photos ? (Please upload at least 5 photos)</string>
+    <string name="what_is_the_minimus_price_per_days">What is the minimus price per days?</string>
+    <string name="price">Price</string>
+    <string name="lkr">LKR</string>
+    <string name="host_details">Host Details</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="mobile_phone_number_we_will_send_you_an_sms_to_verify">Mobile phone number(We will send you an SMS to verify)</string>
+    <string name="_94">+94</string>
+    <string name="what_s_app_number">What\'s app Number</string>
+    <string name="back1">Back</string>
+    <string name="next2">Next</string>
+    <string name="advertisement_free_pay_day">Advertisement free pay day</string>
+    <string name="days">Days</string>
+    <string name="rs_20">RS: 20</string>
+    <string name="multiple">*</string>
+    <string name="_00">00</string>
+    <string name="ok">OK</string>
+    <string name="amount">Amount</string>
+    <string name="_0_00">0.00</string>
+    <string name="payment_details">Payment Details</string>
+    <string name="holder_name">Holder Name *</string>
+    <string name="cardholder_name">CardHolder Name</string>
+    <string name="card_number">Card Number *</string>
+    <string name="_0000_0000_0000_0000">0000-0000-0000-0000</string>
+    <string name="expiry_date">Expiry Date *</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="cvv">CVV</string>
+    <string name="the_last_3_digits_in_displyed">The last 3 digits in displyed</string>
+    <string name="on_the_back_of_your_card">on the back of your card</string>
+    <string name="pay">PAY</string>
+    <string name="back3">Back</string>
+    <string name="submit">SUBMIT</string>
+
+
 </resources>
