@@ -7,6 +7,27 @@
     android:background="@drawable/and"
     tools:context=".VehicleAddCreation2">
 
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/outlinedTextField"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="330dp"
+        android:layout_height="51dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.604"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.197">
+
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            tools:layout_editor_absoluteX="55dp"
+            tools:layout_editor_absoluteY="345dp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
     <EditText
         android:id="@+id/editTextTextPersonName3"
         android:layout_width="wrap_content"
@@ -19,19 +40,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.034" />
-
-    <EditText
-        android:id="@+id/editTextTextPersonName9"
-        android:layout_width="325dp"
-        android:layout_height="82dp"
-        android:ems="10"
-        android:inputType="textPersonName"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.813"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.154" />
 
     <TextView
         android:id="@+id/textView"
