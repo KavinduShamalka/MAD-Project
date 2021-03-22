@@ -1,3 +1,42 @@
+
 <resources>
+
     <string name="app_name">Vehicle Advertisement Creation</string>
+    <string name="name">Name</string>
+    <string name="contact_no">Contact No</string>
+    <string name="city">City</string>
+    <string name="district">District</string>
+    <string name="vehicle_type">Vehicle Type</string>
+    <string name="vehicle_condition">Vehicle Condition</string>
+    <string name="vehicle_model">Vehicle Model</string>
+    <string name="price_for_1_km">Price For 1 KM</string>
+    <string name="select_vehicle_available_date">Select Vehicle available date</string>
+    <string name="next">Next</string>
+
+    <string name="passenger">Passenger</string>
+    <string name="description">Description</string>
+    <string name="uplord_your_vehicle_photos_maximum_3">Uplord your vehicle photos ? (Maximum 3)</string>
+    <string name="upload">Upload</string>
+    <string name="advertisement_free_pay_day">Advertisement free pay day</string>
+    <string name="day_s">Day\'s</string>
+    <string name="rs_20">RS: 20</string>
+    <string name="multiplue">*</string>
+    <string name="_00">00</string>
+    <string name="ok">OK</string>
+    <string name="amount">Amount</string>
+    <string name="_0_00">0.00</string>
+    <string name="back1">Back</string>
+    <string name="next1">Next</string>
+
+
+    <string name="payment_details">Payment Details</string>
+    <string name="card_number">Card Number*</string>
+    <string name="holder_name">Holder Name*</string>
+    <string name="_0000_0000_0000_0000">0000-0000-0000-0000</string>
+    <string name="card_holder_name">Card Holder Name</string>
+    <string name="expire_day">Expire day*</string>
+    <string name="dd_mm">dd / mm</string>
+    <string name="back2">Back</string>
+    <string name="pay_now">Pay Now</string>
+
 </resources>

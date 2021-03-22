@@ -24,7 +24,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#FFFFFF"
-            android:hint="Card Holder Name "
+            android:hint="@string/card_holder_name"
             tools:layout_editor_absoluteX="55dp"
             tools:layout_editor_absoluteY="345dp" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -46,7 +46,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#FFFFFF"
-            android:hint="dd / mm"
+            android:hint="@string/dd_mm"
             tools:layout_editor_absoluteX="55dp"
             tools:layout_editor_absoluteY="345dp" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -68,7 +68,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="#FFFFFF"
-            android:hint="0000-0000-0000-0000"
+            android:hint="@string/_0000_0000_0000_0000"
             tools:layout_editor_absoluteX="55dp"
             tools:layout_editor_absoluteY="345dp" />
     </com.google.android.material.textfield.TextInputLayout>
@@ -77,7 +77,7 @@
         android:id="@+id/button7"
         android:layout_width="104dp"
         android:layout_height="58dp"
-        android:text="Back"
+        android:text="@string/back2"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.228"
@@ -89,7 +89,7 @@
         android:id="@+id/button8"
         android:layout_width="109dp"
         android:layout_height="58dp"
-        android:text="Pay Now"
+        android:text="@string/pay_now"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.811"
@@ -102,7 +102,7 @@
         android:layout_width="165dp"
         android:layout_height="31dp"
         android:fontFamily="sans-serif-medium"
-        android:text="Card Number*"
+        android:text="@string/card_number"
         android:textColor="#090909"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -118,7 +118,7 @@
         android:layout_width="165dp"
         android:layout_height="31dp"
         android:fontFamily="sans-serif-medium"
-        android:text="Holder Name*"
+        android:text="@string/holder_name"
         android:textColor="#020202"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -134,7 +134,7 @@
         android:layout_width="165dp"
         android:layout_height="31dp"
         android:fontFamily="sans-serif-medium"
-        android:text="Expire day*"
+        android:text="@string/expire_day"
         android:textColor="#050505"
         android:textSize="18sp"
         android:textStyle="bold"
@@ -155,14 +155,15 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.069"
-        app:srcCompat="@drawable/kisspng_mastercard_credit_card_american_express_visa_debit_mbna_5b0525b5c09758_1980606615270639897889" />
+        app:srcCompat="@drawable/kisspng_mastercard_credit_card_american_express_visa_debit_mbna_5b0525b5c09758_1980606615270639897889"
+        android:contentDescription="TODO" />
 
     <TextView
         android:id="@+id/textView17"
         android:layout_width="213dp"
         android:layout_height="38dp"
         android:fontFamily="sans-serif-light"
-        android:text="Payment Details"
+        android:text="@string/payment_details"
         android:textColor="#070707"
         android:textSize="24sp"
         android:textStyle="bold"
